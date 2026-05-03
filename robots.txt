@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://javrx.github.io/resources-chu2ua/sitemap.xml
